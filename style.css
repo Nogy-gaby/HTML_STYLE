@@ -1,7 +1,10 @@
 header  {
+.cabecalho-imagem {
+ width: 50%;
+  height:501 ;
+}
 background-color:#854146;
 color: rgb(247, 241, 241);
+color: #ac6267;
 }
-body{
-    color: #ac6267;
-}
+    
